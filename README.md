@@ -1,5 +1,7 @@
-# yarn_package_manager-window-
-yarn package manager setting
+# yarn package manager for window
+[![Yarn](https://img.shields.io/badge/package%20manager-Yarn-green)](https://yarnpkg.com/) This yarn package manager setting [![Yarn](https://img.shields.io/badge/package%20manager-Yarn-blue)](https://yarnpkg.com/)
+
+
 
 * yarn 설치 및 세팅, 사용법
 1. nodejs 설치 (https://nodejs.org/ko)
