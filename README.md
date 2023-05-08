@@ -1,5 +1,5 @@
 # yarn package manager for window
-[![Yarn](https://img.shields.io/badge/package%20manager-Yarn-green)](https://yarnpkg.com/) This yarn package manager setting [![Yarn](https://img.shields.io/badge/package%20manager-Yarn-blue)](https://yarnpkg.com/)
+[![Yarn](https://img.shields.io/badge/package%20manager-Yarn-green)](https://yarnpkg.com/) This is a yarn package manager setting. [![Yarn](https://img.shields.io/badge/package%20manager-Yarn-blue)](https://yarnpkg.com/)
 
 
 
